@@ -1,0 +1,9 @@
+INSTALLATION
+============
+Clone the repo somewhere.
+Bundle install.
+Fill in your details in the ticket_counter_wrapper_example.sh script and save it to /usr/local/bin/ticket_counter.
+You'll need your EY SSO login details and the URL required to login to ZD after successful SSO authentication.
+Update the path accordingly in the cd command.
+Make sure it's executable.
+Run ticket_counter
